@@ -1,5 +1,5 @@
 # BookStore app #
-
+![App diagram](./Bookstore.jpg)
 # Tech Stack #
 
 ### Front End ###
